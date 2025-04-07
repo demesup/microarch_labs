@@ -1,1 +1,7 @@
 **/target/
+**/.cargo/
+**/.vsCode/
+**/main/Cargo.toml
+**/main/Cargo.lock
+**/main/build.rs
+**/main/memory.x
